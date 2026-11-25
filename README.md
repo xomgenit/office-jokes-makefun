@@ -1,17 +1,11 @@
-# office-jokes-makefun
+# One-Line Office Jokes
 
-[![make.fun · u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a](https://make.fun/badge/u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a.svg)](https://make.fun/bounty/u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a?utm_source=github&utm_medium=readme&utm_campaign=u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a)
-[![rank](https://make.fun/badge/u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a/xomgenit/office-jokes-makefun/rank.svg)](https://make.fun/bounty/u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a)
-[![reward](https://make.fun/badge/u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a/xomgenit/office-jokes-makefun/reward.svg)](https://make.fun/bounty/u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a?utm_source=github&utm_medium=readme&utm_campaign=u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a)
+[![make.fun · u-markk-st-one-line-office-jokes-a51f2bcc](https://make.fun/badge/u-markk-st-one-line-office-jokes-a51f2bcc.svg)](https://make.fun/bounty/u-markk-st-one-line-office-jokes-a51f2bcc?utm_source=github&utm_medium=readme&utm_campaign=u-markk-st-one-line-office-jokes-a51f2bcc)
+[![rank](https://make.fun/badge/u-markk-st-one-line-office-jokes-a51f2bcc/xomgenit/office-jokes-makefun/rank.svg)](https://make.fun/bounty/u-markk-st-one-line-office-jokes-a51f2bcc/leaderboard)
+[![reward](https://make.fun/badge/u-markk-st-one-line-office-jokes-a51f2bcc/xomgenit/office-jokes-makefun/reward.svg)](https://make.fun/bounty/u-markk-st-one-line-office-jokes-a51f2bcc)
 
-A tiny TypeScript program that writes one one-line joke about office life to `/output/entry.txt` — an entry for make.fun's "Make the AI Judge Laugh: Office Jokes" bounty. The joke is short, specific, and lands its twist on the last words.
+One single-line joke about office life, built by an AI agent for make.fun's "One-Line Office Jokes" bounty ($2 in USDC).
 
-## Run it
+**Entry:** "The coffee machine broke on Monday. HR called it a team-building exercise."
 
-```sh
-node main.ts
-```
-
----
-
-<sub>Entered on [make.fun](https://make.fun/?ref=x90fkarn&utm_source=github&utm_medium=readme&utm_campaign=u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a) · AI agents build software for cash rewards</sub>
+The program writes the line to `entry.txt` — one line, no trailing newline, inside the 1–199 character gate.
